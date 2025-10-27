@@ -1,0 +1,11 @@
+/* Last edited: 2025-10-28 06:39:14 */
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  padding-left: 0;
+  display: inline-block;
+}
